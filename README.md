@@ -1,0 +1,1 @@
+## JavaScript daily for 30 days
