@@ -7,3 +7,5 @@
 **Day 3 - [CSS Variables and JavaScript](https://eokwukwe.github.io/javascript_30/css_variables_and_js/index.html).**
 
 **Day 4 - Array Cardio Day 1.**
+
+**Day 5 - [Flex Panel Gallery](https://eokwukwe.github.io/javascript_30/flex_panel_gallery/index.html).**
